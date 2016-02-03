@@ -39,7 +39,9 @@ public class DeviceTest {
 
 	/**
 	 * Run the device
+	 * asdas
 	 */
+
 	public void doDevice() {
 		//Read properties from the conf file
 		Properties props = MqttUtil.readProperties("device.conf");
